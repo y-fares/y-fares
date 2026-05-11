@@ -42,7 +42,7 @@ My work is not about making toy demos. I care about tools that help users:
 
 ## Featured projects
 
-### AI Interview Prep Agent
+### 1. [AI Interview Prep Agent](https://github.com/y-fares/interview_agent)
 
 Agent IA qui transforme une offre d’emploi en brief complet de préparation d’entretien.
 
@@ -57,11 +57,9 @@ Agent IA qui transforme une offre d’emploi en brief complet de préparation d�
 **Stack**
 `Python` · `Streamlit` · `Groq` · `Gemini` · `BeautifulSoup` · `Pydantic`
 
-> Status: portfolio project — make public after checking secrets and personal CV data.
-
 ---
 
-### Meeting Brain
+### 2. [Meeting Brain](https://github.com/y-fares/meeting_brain)
 
 AI meeting assistant that transforms raw meeting notes into summaries, decisions, TODOs, KPIs and operational insights.
 
@@ -77,11 +75,9 @@ AI meeting assistant that transforms raw meeting notes into summaries, decisions
 **Stack**
 `Python` · `Streamlit` · `FastAPI` · `SQLite` · `Groq` · `Notion API` · `Slack API` · `Pytest`
 
-> Status: strong AI product case study — should be one of the first projects pinned publicly.
-
 ---
 
-### RAG Document Search
+### 3. [RAG Document Search](https://github.com/y-fares/rag-streamlit-app)
 
 Document assistant that lets users upload PDFs, index them and ask questions with sourced answers.
 
@@ -97,11 +93,9 @@ Document assistant that lets users upload PDFs, index them and ask questions wit
 **Stack**
 `Python` · `Streamlit` · `RAG` · `Embeddings` · `Vector Search` · `Groq` · `Gemini`
 
-> Status: strong technical proof for RAG and document intelligence.
-
 ---
 
-### AI Document Search & Summarizer
+### 4. [AI Document Search & Summarizer](https://github.com/y-fares/PSTB-Hackathon2)
 
 Search and summarization app built during a hackathon context.
 
@@ -116,11 +110,9 @@ Search and summarization app built during a hackathon context.
 **Stack**
 `Python` · `Streamlit` · `NLP` · `Vector Search` · `BART` · `TinyLlama`
 
-Repository: [PSTB-Hackathon2](https://github.com/y-fares/PSTB-Hackathon2)
-
 ---
 
-### Employee Attrition Analysis
+### 5. [Employee Attrition Analysis](https://github.com/y-fares/PSTB-YCDynamics-Hackathon-1)
 
 Data analysis project focused on employee turnover and HR performance patterns.
 
@@ -133,7 +125,24 @@ Data analysis project focused on employee turnover and HR performance patterns.
 **Stack**
 `Python` · `Pandas` · `Data Analysis` · `HR Analytics` · `Visualization`
 
-Repository: [PSTB-YCDynamics-Hackathon-1](https://github.com/y-fares/PSTB-YCDynamics-Hackathon-1)
+---
+
+## Public project index
+
+| Repository                                                                            | Category      | Notes                                                                   |
+| ------------------------------------------------------------------------------------- | ------------- | ----------------------------------------------------------------------- |
+| [interview_agent](https://github.com/y-fares/interview_agent)                         | AI Agent      | Interview preparation agent based on job offers and CV/profile matching |
+| [meeting_brain](https://github.com/y-fares/meeting_brain)                             | AI Product    | Meeting intelligence, TODO extraction, Notion/Slack workflows, FastAPI  |
+| [rag-streamlit-app](https://github.com/y-fares/rag-streamlit-app)                     | RAG           | PDF question-answering assistant with sourced answers                   |
+| [PSTB-Hackathon2](https://github.com/y-fares/PSTB-Hackathon2)                         | NLP / Search  | Document search and summarization app                                   |
+| [PSTB-YCDynamics-Hackathon-1](https://github.com/y-fares/PSTB-YCDynamics-Hackathon-1) | Data Analysis | Employee attrition and performance analysis                             |
+| [PSTB-YCDynamics-Hackathon-2](https://github.com/y-fares/PSTB-YCDynamics-Hackathon-2) | Hackathon     | Bootcamp / hackathon project                                            |
+| [PSTB_web-briefing-bot](https://github.com/y-fares/PSTB_web-briefing-bot)             | AI / Web      | Web briefing bot project                                                |
+| [PSTB_DI_Bootcamp](https://github.com/y-fares/PSTB_DI_Bootcamp)                       | Bootcamp      | Training and bootcamp repository                                        |
+| [dst-de-satisfaction](https://github.com/y-fares/dst-de-satisfaction)                 | Data / BI     | Data satisfaction project                                               |
+| [DI-Bootcamp-Stage1](https://github.com/y-fares/DI-Bootcamp-Stage1)                   | Bootcamp      | Bootcamp stage repository                                               |
+| [extract_yt](https://github.com/y-fares/extract_yt)                                   | Automation    | YouTube extraction utility                                              |
+| [git_tutorial_yourname](https://github.com/y-fares/git_tutorial_yourname)             | Training      | Git tutorial repository                                                 |
 
 ---
 
@@ -190,7 +199,6 @@ Then I build around four principles:
 ---
 
 <div align="center">
-
 **AI is useful when it removes friction, not when it adds another shiny dashboard nobody opens.**
 
 </div>
