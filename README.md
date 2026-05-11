@@ -185,7 +185,7 @@ Then I build around four principles:
 
 * GitHub: [github.com/y-fares](https://github.com/y-fares)
 * Email: [yacine.fares.pro@gmail.com](mailto:yacine.fares.pro@gmail.com)
-* LinkedIn: add your LinkedIn URL here
+* LinkedIn: https://www.linkedin.com/in/yacine-fares-b79ba919/
 
 ---
 
